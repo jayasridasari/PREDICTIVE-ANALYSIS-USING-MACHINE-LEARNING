@@ -78,3 +78,9 @@ Visual plot of actual vs predicted math scores
 Visualization:
 
 A scatter plot showing predicted vs actual math scores
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/ed0f048d-c93c-4778-91c8-2db4ce0e09b1)
+
+![Image](https://github.com/user-attachments/assets/f74f23f5-ff6c-4c37-9c1e-1ba1d744412c)
